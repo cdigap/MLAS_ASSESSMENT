@@ -11,3 +11,8 @@ This assessment includes creating a Jupyter notebook with
 ## What is Boston Dataset :
 
 This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston Mass. It was obtained from the StatLib archive (http://lib.stat.cmu.edu/datasets/boston), and has been used extensively throughout the literature to benchmark algorithms.
+
+
+
+## References 
+1) https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
