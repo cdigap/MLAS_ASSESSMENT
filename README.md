@@ -25,5 +25,8 @@ This dataset contains information collected by the U.S Census Service concerning
 ### Inferential Statistics
 Doing this excercise we found that the number of houses near the Charles River are less compared to the houses far from the river. But the houses near the River are expensive on average than the houses away from the river. 
 
+### Keras Neural network
+This is totally new to me Tried to create a neural network.
+
 ## References 
 1) https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
